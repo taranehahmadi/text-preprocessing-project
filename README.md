@@ -9,6 +9,8 @@ Normalization: Changes all letters to lowercase.
 Stop Word Removal: Removes common words like "the", "is", and "of".
 Stemming: Changes words to their root forms.
 
+
+
 Tools:
 
 • Python
