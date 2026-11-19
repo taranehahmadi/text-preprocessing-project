@@ -10,17 +10,27 @@ Stop Word Removal: Removes common words like "the", "is", and "of".
 Stemming: Changes words to their root forms.
 
 Tools:
+
 • Python
+
 • NLTK
+
 • Regular Expressions
 
+
 Project Files:
+
 • main.py: The main Python code.
+
 • outputs.json: The final results of the three test texts.
+
 • README.md: Project information and instructions.
 
+
 Requirements:
+
 • Python 3
+
 • NLTK library
 
 How to Run:
@@ -30,8 +40,10 @@ How to Run:
 pip install nltk
 
 Run the program:
-python main.py
-The program automatically processes all three sample texts.
+
+• python main.py
+
+• The program automatically processes all three sample texts.
 It shows the final terms, Precision, Recall, extra terms, and missing terms in the terminal.
 The final results are also saved in outputs.json.
 
