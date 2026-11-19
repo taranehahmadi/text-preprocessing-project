@@ -23,11 +23,11 @@ Tools:
 
 Project Files:
 
-• main.py: The main Python code.
+main.py: The main Python code.
 
-• outputs.json: The final results of the three test texts.
+outputs.json: The final results of the three test texts.
 
-• README.md: Project information and instructions.
+README.md: Project information and instructions.
 
 
 
