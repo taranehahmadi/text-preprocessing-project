@@ -18,6 +18,7 @@ Tools:
 • Regular Expressions
 
 
+
 Project Files:
 
 • main.py: The main Python code.
@@ -27,11 +28,14 @@ Project Files:
 • README.md: Project information and instructions.
 
 
+
 Requirements:
 
 • Python 3
 
 • NLTK library
+
+
 
 How to Run:
 1. Make sure Python is installed on your computer.
@@ -39,13 +43,20 @@ How to Run:
 3. Install NLTK by running this command:
 pip install nltk
 
+
+
 Run the program:
 
-• python main.py
+python main.py
 
-• The program automatically processes all three sample texts.
+The program automatically processes all three sample texts.
+
 It shows the final terms, Precision, Recall, extra terms, and missing terms in the terminal.
+
 The final results are also saved in outputs.json.
 
+
+
 Evaluation
+
 The program compares its results with the Gold Standard to calculate Precision and Recall.
