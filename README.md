@@ -26,7 +26,7 @@ NLTK library
 How to Run:
 1. Make sure Python is installed on your computer.
 2. Open a terminal in the project folder.
-3.Install NLTK by running this command:
+3. Install NLTK by running this command:
 pip install nltk
 
 Run the program:
